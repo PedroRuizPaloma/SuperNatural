@@ -165,3 +165,55 @@ footer {
 
 
 }
+
+
+.tabela {
+    
+    overflow-x: auto;
+
+}
+
+table{
+
+    border-collapse: collapse;
+
+    min-width: 650px;
+
+    width: 100%;
+
+    background-color: #000000;
+
+}
+
+caption {
+
+    color: #f7f7f7;
+
+    font-weight: bold;
+
+    margin-bottom: 16px;
+
+    text-align: center;
+
+}
+
+td{
+
+    border: 1px solid #5c5c5c;
+
+    padding: 14px;
+
+    text-align: center;
+}
+
+th{
+
+    background-color: #551414;
+}
+
+tbody tr:nth-child(even) {
+
+    background-color: #551414;
+    
+}
+    
