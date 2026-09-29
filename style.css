@@ -216,4 +216,35 @@ tbody tr:nth-child(even) {
     background-color: #551414;
     
 }
+audio,
+video {
+    max-width: 50%;
+
+    max-height: 50%;
+    
+    background-color: #000000;
+
+    align-items: center
+    ;
+
+}
+
+code{
+
+    color: #000000;
+
+}
+
+.video-center{
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100%;
+}
+
+
     
